@@ -1,0 +1,9 @@
+[submodule "vendor/xml"]
+	path = vendor/xml
+	url = https://github.com/dylang/node-xml.git
+[submodule "vendor/rss"]
+	path = vendor/rss
+	url = https://github.com/dylang/node-rss.git
+[submodule "vendor/logging"]
+	path = vendor/logging
+	url = https://github.com/dylang/logging.git
